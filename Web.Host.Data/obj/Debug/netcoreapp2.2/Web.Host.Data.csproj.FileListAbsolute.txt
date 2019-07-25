@@ -1,0 +1,11 @@
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\bin\Debug\netcoreapp2.2\Web.Host.Data.deps.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\bin\Debug\netcoreapp2.2\Web.Host.Data.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.csproj.CoreCompileInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.AssemblyInfoInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.AssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.csprojAssemblyReference.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\bin\Debug\netcoreapp2.2\Web.Host.Data.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\obj\Debug\netcoreapp2.2\Web.Host.Data.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\bin\Debug\netcoreapp2.2\Web.Host.Data.runtimeconfig.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.Data\bin\Debug\netcoreapp2.2\Web.Host.Data.runtimeconfig.dev.json

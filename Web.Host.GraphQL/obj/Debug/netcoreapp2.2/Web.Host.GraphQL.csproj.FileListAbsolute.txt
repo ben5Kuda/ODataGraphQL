@@ -1,0 +1,12 @@
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\bin\Debug\netcoreapp2.2\Web.Host.GraphQL.deps.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\bin\Debug\netcoreapp2.2\Web.Host.GraphQL.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\bin\Debug\netcoreapp2.2\Web.Host.GraphQL.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.csprojAssemblyReference.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.AssemblyInfoInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.AssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\bin\Debug\netcoreapp2.2\Web.Host.Data.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\bin\Debug\netcoreapp2.2\Web.Host.Data.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.GraphQL\obj\Debug\netcoreapp2.2\Web.Host.GraphQL.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\bin\Debug\netcoreapp2.2\Web.Host.OData.deps.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\bin\Debug\netcoreapp2.2\Web.Host.OData.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\bin\Debug\netcoreapp2.2\Web.Host.OData.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.csprojAssemblyReference.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.csproj.CoreCompileInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.AssemblyInfoInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.AssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\bin\Debug\netcoreapp2.2\Web.Host.Data.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\bin\Debug\netcoreapp2.2\Web.Host.Data.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\ODataGraphQLSample\Web.Host.OData\obj\Debug\netcoreapp2.2\Web.Host.OData.csproj.CopyComplete
